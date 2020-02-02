@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="947.11902"
+   height="947.11902"
+   viewBox="0 0 250.59189 250.59191"
+   version="1.1"
+   id="svg3195"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="medicare.svg">
+  <defs
+     id="defs3189">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1391"
+       id="linearGradient1403"
+       x1="363.60437"
+       y1="1013.4842"
+       x2="561.95715"
+       y2="1013.4842"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.32447397,0,0,0.32447397,-304.64209,536.4507)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1391">
+      <stop
+         style="stop-color:#b5b5b5;stop-opacity:1;"
+         offset="0"
+         id="stop1387" />
+      <stop
+         id="stop1395"
+         offset="0.51391554"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         style="stop-color:#b5b5b5;stop-opacity:0.98823529"
+         offset="1"
+         id="stop1389" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1391"
+       id="linearGradient1616"
+       x1="-235.24107"
+       y1="446.52203"
+       x2="-170.88068"
+       y2="446.52203"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#dbdbdb"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="-372.74569"
+     inkscape:cy="1564.8138"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="741"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3192">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(279.77768,-762.7702)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:196.15661621;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1421"
+       width="250.5919"
+       height="250.5919"
+       x="-279.77768"
+       y="762.7702"
+       inkscape:export-xdpi="97.220001"
+       inkscape:export-ydpi="97.220001" />
+    <path
+       style="fill:#2f5678;fill-opacity:1;stroke:none;stroke-width:2.5958426px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -154.48259,807.82556 c -11.1045,8.51966 -25.7285,11.91858 -45.5606,7.74341 v 55.98394 c 4.6975,25.21049 22.7795,37.58612 45.5606,51.22136 22.781,-13.63524 40.8647,-26.01087 45.5622,-51.22136 v -55.98394 c -19.8321,4.17517 -34.4577,0.77625 -45.5622,-7.74341 z"
+       id="path1318"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1320"
+       d="m -154.48249,816.58659 c -9.4118,7.22099 -21.8066,10.10177 -38.6156,6.56313 v 47.45002 c 3.9814,21.36754 19.3071,31.85672 38.6156,43.4135 19.3085,-11.55678 34.6356,-22.04596 38.617,-43.4135 v -47.45002 c -16.8091,3.53864 -29.2052,0.65786 -38.617,-6.56313 z"
+       style="fill:#ffffff;stroke:none;stroke-width:2.20014858px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:url(#linearGradient1403);fill-opacity:1;stroke:none;stroke-width:1.8334502px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -154.48239,824.70566 c -7.8431,6.01749 -18.1721,8.41811 -32.1796,5.46918 v 39.54157 c 3.3179,17.80626 16.0893,26.54721 32.1796,36.17778 16.0904,-9.63057 28.8629,-18.37152 32.1808,-36.17778 v -39.54157 c -14.0076,2.94893 -24.3377,0.54831 -32.1808,-5.46918 z"
+       id="path1322"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1361"
+       d="m -154.48179,893.90108 v -0.0142 c 3.9623,0 7.1521,-3.18985 7.1521,-7.15213 v -14.2826 l 21.4491,-2e-5 v -7.15209 c 0,-3.96229 -3.1899,-7.15214 -7.1521,-7.15217 l -14.297,2e-5 v -21.44911 l -7.152,10e-6 c -3.9624,0 -7.1523,3.18985 -7.1523,7.15213 v 14.29695 h -21.449 v 7.15212 h 0.014 c 0,3.96228 3.1899,7.15214 7.1521,7.15214 l 14.2827,10e-6 v 21.44903 z"
+       style="opacity:1;fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:229.74241638;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.84054852px;line-height:1.25;font-family:UBUNTU;-inkscape-font-specification:UBUNTU;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2f5678;fill-opacity:1;stroke:none;stroke-width:0.41222325"
+       x="-246.431"
+       y="946.09949"
+       id="text1447"><tspan
+         sodipodi:role="line"
+         id="tspan1445"
+         x="-246.431"
+         y="946.09949"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Good Times';-inkscape-font-specification:'Good Times';fill:#2f5678;fill-opacity:1;stroke-width:0.41222325">YOUR COMPANY NAME</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.38130474px;line-height:1.25;font-family:UBUNTU;-inkscape-font-specification:UBUNTU;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2f5678;fill-opacity:1;stroke:none;stroke-width:0.33327356"
+       x="-182.09421"
+       y="964.69843"
+       id="text1712"><tspan
+         sodipodi:role="line"
+         id="tspan1710"
+         x="-182.09421"
+         y="964.69843"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:UBUNTU;-inkscape-font-specification:'UBUNTU Medium';fill:#2f5678;fill-opacity:1;stroke-width:0.33327356">your slogan</tspan></text>
+    <rect
+       inkscape:export-filename="/var/www/html/shared/medicare.png"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="opacity:1;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.93955672;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1266"
+       width="317.5"
+       height="317.5"
+       x="-679.22736"
+       y="312.11902" />
+    <rect
+       y="351.80652"
+       x="-639.53986"
+       height="238.125"
+       width="238.125"
+       id="rect1503"
+       style="opacity:1;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.9395566;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/var/www/html/shared/medicare.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:'Carrinady Bold';-inkscape-font-specification:'Carrinady Bold, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.26458332px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-845.91071"
+       y="544.95239"
+       id="text1536"><tspan
+         sodipodi:role="line"
+         id="tspan1534"
+         x="-845.91071"
+         y="557.29962"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Carrinady Bold';-inkscape-font-specification:'Carrinady Bold, ';stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:98.69501495px;line-height:1.25;font-family:Bauhaus;-inkscape-font-specification:Bauhaus;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-1.85053146px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-924.38715"
+       y="589.35864"
+       id="text1540"><tspan
+         sodipodi:role="line"
+         id="tspan1538"
+         x="-924.38715"
+         y="679.19318"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bauhaus;-inkscape-font-specification:Bauhaus;stroke-width:0.26458332" /></text>
+    <g
+       id="g1532"
+       transform="translate(241.69181,11.926595)"
+       inkscape:export-filename="/var/www/html/shared/medicare.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5958426px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -762.25348,377.12108 c -11.1045,8.51966 -25.7285,11.91858 -45.5606,7.74341 v 55.98394 c 4.6975,25.21049 22.7795,37.58612 45.5606,51.22136 22.781,-13.63524 40.8647,-26.01087 45.5622,-51.22136 v -55.98394 c -19.8321,4.17517 -34.4577,0.77625 -45.5622,-7.74341 z"
+         id="path1518"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1520"
+         d="m -762.25338,385.88211 c -9.4118,7.22099 -21.8066,10.10177 -38.6156,6.56313 v 47.45002 c 3.9814,21.36754 19.3071,31.85672 38.6156,43.4135 19.3085,-11.55678 34.6356,-22.04596 38.617,-43.4135 v -47.45002 c -16.8091,3.53864 -29.2052,0.65786 -38.617,-6.56313 z"
+         style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:2.20014858px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.8334502px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -762.25328,394.00118 c -7.8431,6.01749 -18.1721,8.41811 -32.1796,5.46918 v 39.54157 c 3.3179,17.80626 16.0893,26.54721 32.1796,36.17778 16.0904,-9.63057 28.8629,-18.37152 32.1808,-36.17778 v -39.54157 c -14.0076,2.94893 -24.3377,0.54831 -32.1808,-5.46918 z"
+         id="path1522"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1524"
+         d="m -762.25268,463.1966 v -0.0142 c 3.9623,0 7.1521,-3.18985 7.1521,-7.15213 v -14.2826 l 21.4491,-2e-5 v -7.15209 c 0,-3.96229 -3.1899,-7.15214 -7.1521,-7.15217 l -14.297,2e-5 V 405.9943 l -7.152,10e-6 c -3.9624,0 -7.1523,3.18985 -7.1523,7.15213 v 14.29695 h -21.449 v 7.15212 h 0.014 c 0,3.96228 3.1899,7.15214 7.1521,7.15214 l 14.2827,10e-6 v 21.44903 z"
+         style="opacity:1;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:229.74241638;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:228.50175476px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-7.78983164px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-628.32141"
+       y="552.23962"
+       id="text1544"
+       inkscape:export-filename="/var/www/html/shared/medicare.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1542"
+         x="-628.32141"
+         y="552.23962"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:37.56052399px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.16404368px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">MEDICARE</tspan></text>
+    <rect
+       y="312.11902"
+       x="-361.72736"
+       height="317.5"
+       width="317.5"
+       id="rect1558"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.93955672;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="/var/www/html/shared/medicare1.png" />
+    <rect
+       inkscape:export-filename="/var/www/html/shared/medicare1.png"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.9395566;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1560"
+       width="238.125"
+       height="238.125"
+       x="-322.03986"
+       y="351.80652" />
+    <path
+       style="fill:#2f5678;fill-opacity:1;stroke:none;stroke-width:2.5958426px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -203.06167,389.04768 c -11.1045,8.51966 -25.7285,11.91858 -45.5606,7.7434 v 55.98395 c 4.6975,25.21049 22.7795,37.58612 45.5606,51.22136 22.781,-13.63524 40.8647,-26.01087 45.5622,-51.22136 v -55.98395 c -19.8321,4.17517 -34.4577,0.77626 -45.5622,-7.7434 z"
+       id="path1572"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/var/www/html/shared/medicare1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1574"
+       d="m -203.06157,397.80871 c -9.4118,7.22098 -21.8066,10.10177 -38.6156,6.56313 v 47.45002 c 3.9814,21.36754 19.3071,31.85672 38.6156,43.4135 19.3085,-11.55678 34.6356,-22.04596 38.617,-43.4135 v -47.45002 c -16.8091,3.53864 -29.2052,0.65786 -38.617,-6.56313 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.20014858px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/var/www/html/shared/medicare1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:url(#linearGradient1616);fill-opacity:1;stroke:none;stroke-width:1.8334502px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -203.06147,405.92777 c -7.8431,6.01749 -18.1721,8.41811 -32.1796,5.46918 v 39.54157 c 3.3179,17.80626 16.0893,26.54721 32.1796,36.17778 16.0904,-9.63057 28.8629,-18.37152 32.1808,-36.17778 v -39.54157 c -14.0076,2.94893 -24.3377,0.54831 -32.1808,-5.46918 z"
+       id="path1576"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/var/www/html/shared/medicare1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1578"
+       d="m -203.06087,475.12319 v -0.0142 c 3.9623,0 7.1521,-3.18984 7.1521,-7.15213 v -14.2826 l 21.4491,-2e-5 v -7.15209 c 0,-3.96229 -3.1899,-7.15213 -7.1521,-7.15217 l -14.297,2e-5 v -21.4491 h -7.152 c -3.9624,0 -7.1523,3.18985 -7.1523,7.15213 v 14.29695 h -21.449 v 7.15212 h 0.014 c 0,3.96229 3.1899,7.15214 7.1521,7.15214 l 14.2827,10e-6 v 21.44903 z"
+       style="opacity:1;fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:229.74241638;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       inkscape:export-filename="/var/www/html/shared/medicare1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       id="text1652"
+       y="552.23962"
+       x="-310.07285"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:228.50175476px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-7.78983164px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/var/www/html/shared/medicare1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:37.56052399px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.16404368px;writing-mode:lr-tb;text-anchor:start;fill:#ff5555;fill-opacity:1;stroke-width:0.26458332"
+         y="552.23962"
+         x="-310.07285"
+         id="tspan1650"
+         sodipodi:role="line">MEDICARE</tspan></text>
+  </g>
+</svg>
